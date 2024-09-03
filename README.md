@@ -3,4 +3,4 @@
 
 This site is still under active construction!
 
-Please return on Tuesday for a much cleaner version of the code and more explanation on the repository!
+Please return shortly for a much cleaner version of the code and more explanation on the repository!
